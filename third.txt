@@ -1,2 +1,0 @@
-this is sample text
-practising git using third.txt file
